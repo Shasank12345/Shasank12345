@@ -1,5 +1,5 @@
 # 💫 About Me:
-I focus on building functional, real-world solutions using React, Tailwind CSS, and Flask. My work ranges from university-level utility prototypes to automated clinical documentation systems.<br><br>🔭 Currently working on: Refining EchoFlow, a medical triage platform utilizing the Ottawa Ankle Rules.<br><br>🚀 Past Projects: Developed "Route Hive," a real-time university bus tracking prototype.<br><br>🛠 Tech Stack: React, Supabase, Flask, Tailwind CSS, PostgreSQL.<br><br>📫 Connect: https://www.linkedin.com/in/shasank-singh-thakuri-b53267346/ | shasanksingh000@gmail.com
+I focus on building functional, real-world solutions using React, Tailwind CSS, and Flask. My work ranges from university-level utility prototypes to automated clinical documentation systems.<br><br>🔭 Currently working on: Refining CuraMind, a medical triage platform utilizing the Ottawa Ankle Rules.<br><br>🚀 Past Projects: Developed "Route Hive," a real-time university bus tracking prototype.<br><br>🛠 Tech Stack: React, Supabase, Flask, Tailwind CSS, PostgreSQL.<br><br>📫 Connect: https://www.linkedin.com/in/shasank-singh-thakuri-b53267346/ | shasanksingh000@gmail.com
 
 
 ## 🌐 Socials:
